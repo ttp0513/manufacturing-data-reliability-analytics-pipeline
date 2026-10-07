@@ -102,8 +102,3 @@ into one enterprise model.
 Use wording such as:
 
 > "Built a synthetic manufacturing analytics environment that simulates ERP, MES, QMS, CMMS, and SCADA/IIoT source data and preserves operational relationships among production, downtime, quality, maintenance, and equipment telemetry."
-
-Do **not** say:
-> "Worked with Siemens MES/SCADA data."
-
-unless you actually did.

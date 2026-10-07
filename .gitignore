@@ -1,0 +1,28 @@
+# Local Python environments
+.venv/
+venv/
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating-system artifacts
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+~$*
