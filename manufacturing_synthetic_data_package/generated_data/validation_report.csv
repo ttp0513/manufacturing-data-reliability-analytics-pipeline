@@ -1,0 +1,5 @@
+check,passed,value
+good_plus_scrap_equals_total,True,0
+operating_time_nonnegative,True,0
+downtime_duration_positive,True,0
+quality_defects_reconcile_to_scrap,True,0

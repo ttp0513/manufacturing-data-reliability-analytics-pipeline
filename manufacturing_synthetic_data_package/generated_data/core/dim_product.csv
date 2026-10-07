@@ -1,0 +1,9 @@
+product_id,product_name,product_family,standard_cycle_seconds,standard_unit_cost,target_scrap_rate
+SKU001,Product 001,Premium,72.3,66.03,0.0201
+SKU002,Product 002,Industrial,50.0,24.46,0.0324
+SKU003,Product 003,Standard,58.1,31.56,0.0163
+SKU004,Product 004,Premium,63.5,29.84,0.0311
+SKU005,Product 005,Industrial,71.4,66.2,0.0197
+SKU006,Product 006,Standard,65.6,57.13,0.0255
+SKU007,Product 007,Premium,41.7,45.86,0.0091
+SKU008,Product 008,Industrial,59.7,40.1,0.0119

@@ -1,0 +1,4 @@
+shift_id,start_hour,end_hour,scheduled_hours
+A,6,14,8
+B,14,22,8
+C,22,6,8

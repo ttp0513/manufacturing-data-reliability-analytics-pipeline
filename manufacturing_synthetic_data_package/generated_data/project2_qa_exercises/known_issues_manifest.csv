@@ -1,0 +1,9 @@
+table_name,issue_type,reference
+production,missing_line_id,2878
+production,missing_line_id,1538
+production,missing_line_id,3036
+production,scrap_gt_total,4070
+production,scrap_gt_total,439
+production,duplicate_row,appended
+downtime,negative_duration,1081
+downtime,negative_duration,2033

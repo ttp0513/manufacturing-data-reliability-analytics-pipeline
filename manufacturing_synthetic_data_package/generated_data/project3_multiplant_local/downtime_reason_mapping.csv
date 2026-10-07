@@ -1,0 +1,34 @@
+plant_id,local_reason_code,standard_reason,standard_category
+P01,MECH,Mechanical Failure,Unplanned
+P01,ELEC,Electrical Fault,Unplanned
+P01,MAT,Material Starvation,Unplanned
+P01,QH,Quality Hold,Unplanned
+P01,CTRL,Sensor/Controls Fault,Unplanned
+P01,OP,Operator Adjustment,Unplanned
+P01,UTIL,Utility Interruption,Unplanned
+P01,CO,Changeover,Planned
+P01,PM,Preventive Maintenance,Planned
+P01,CLEAN,Cleaning/Sanitation,Planned
+P01,INSP,Planned Inspection,Planned
+P02,M01,Mechanical Failure,Unplanned
+P02,E01,Electrical Fault,Unplanned
+P02,S01,Material Starvation,Unplanned
+P02,Q01,Quality Hold,Unplanned
+P02,C01,Sensor/Controls Fault,Unplanned
+P02,O01,Operator Adjustment,Unplanned
+P02,U01,Utility Interruption,Unplanned
+P02,C/O,Changeover,Planned
+P02,P/M,Preventive Maintenance,Planned
+P02,SAN,Cleaning/Sanitation,Planned
+P02,PI,Planned Inspection,Planned
+P03,BREAKDOWN,Mechanical Failure,Unplanned
+P03,ELECTRICAL,Electrical Fault,Unplanned
+P03,NO_MATERIAL,Material Starvation,Unplanned
+P03,QUALITY,Quality Hold,Unplanned
+P03,AUTOMATION,Sensor/Controls Fault,Unplanned
+P03,ADJUST,Operator Adjustment,Unplanned
+P03,UTILITY,Utility Interruption,Unplanned
+P03,CHANGEOVER,Changeover,Planned
+P03,PREV_MAINT,Preventive Maintenance,Planned
+P03,CLEANING,Cleaning/Sanitation,Planned
+P03,INSPECTION,Planned Inspection,Planned

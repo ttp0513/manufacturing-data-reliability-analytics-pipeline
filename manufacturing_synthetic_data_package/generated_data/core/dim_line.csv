@@ -1,0 +1,10 @@
+line_id,plant_id,line_name,nominal_units_per_hour,commission_year
+P01_L01,P01,Line 1,69.9,2018
+P01_L02,P01,Line 2,65.2,2015
+P01_L03,P01,Line 3,74.2,2018
+P02_L01,P02,Line 1,48.8,2013
+P02_L02,P02,Line 2,55.9,2022
+P02_L03,P02,Line 3,47.0,2020
+P03_L01,P03,Line 1,57.7,2023
+P03_L02,P03,Line 2,56.6,2016
+P03_L03,P03,Line 3,58.1,2010

@@ -1,0 +1,4 @@
+plant_id,plant_name,region,timezone,planned_shift_hours
+P01,Plant A,Southeast,America/New_York,8.0
+P02,Plant B,Midwest,America/Chicago,8.0
+P03,Plant C,Southwest,America/Denver,8.0

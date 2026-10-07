@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "start_date": "2026-01-01",
+  "days": 180,
+  "plants": 3,
+  "lines_per_plant": 3,
+  "machines_per_line": 4,
+  "products": 8,
+  "rows": {
+    "orders": 2279,
+    "work_orders": 4356,
+    "production": 4356,
+    "downtime": 3205,
+    "quality": 19955,
+    "maintenance": 1022,
+    "sensor_hourly": 139392
+  }
+}
